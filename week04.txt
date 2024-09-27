@@ -3,3 +3,4 @@
   fetch,pull
 -Go 환경 셋업
 Go 컴파일러 설치
+conflict
